@@ -1,0 +1,2 @@
+# WHO BMI Calculator Dependencies
+# 本项目仅使用Python标准库，无需额外依赖
